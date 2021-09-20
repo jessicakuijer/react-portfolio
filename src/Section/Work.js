@@ -54,6 +54,24 @@ function Work() {
 								</div>
 							</div>
 
+							<div class="col-lg-4 col-md-6 filter vuejs">
+								<div class="thumbnail">
+									<div class="thumbnail-img">
+										<img src="assets/img/work/screenshot-laravel-vue.png" alt="crud-laravel-vuejs"/>
+									</div>
+	
+									<div class="caption">
+										<h3>CRUD Laravel / Vue JS</h3>
+										<h5>Création d'un CRUD avec Laravel et Vue JS</h5>
+										<p class="social-intro">
+											<a href="https://github.com/jessicakuijer/Laravel-vuejs-crud" alt="crud-laravel-vuejs" target="_blank">
+												<i class="fab fa-github"></i>
+											</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
 							<div className="col-lg-4 col-md-6 filter react">
 								<div className="thumbnail">
 									<div className="thumbnail-img">
