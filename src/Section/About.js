@@ -47,7 +47,7 @@ function About() {
 							</div>
 						</div>
 						<div className="about-me-information-cta">
-							<a href="https://www.jessicakuijer.com/assets/docs/CV_Jessica_Kuijer.pdf" target="_blank">Télécharger CV <i className="fas fa-file"></i></a>
+							 <a href="https://www.jessicakuijer.com/assets/docs/CV_Jessica_Kuijer.pdf" target="_blank">Télécharger CV <i className="fas fa-file"></i></a>
 							</div>
 						<div className="about-me-information-cta">
 							<a href="https://www.linkedin.com/in/jessicakuijer/" target="_blank">Profil Linked <i className="fab fa-linkedin"></i></a>
