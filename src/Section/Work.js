@@ -13,6 +13,7 @@ function Work() {
 					<button class="filter-button filter-data" data-filter="all">TOUS</button>
 						<button class="filter-button" data-filter="react">REACT</button>
 						<button class="filter-button" data-filter="vuejs">VUEJS</button>
+						<button class="filter-button" data-filter="javascript">Javascript</button>
 						<button class="filter-button" data-filter="symfony">SYMFONY</button>
 						<button class="filter-button" data-filter="wordpress">Wordpress</button>
 					</div>
@@ -47,6 +48,24 @@ function Work() {
 										<h5>Création d'un projet client en Vue JS et intégration d'une maquette graphique</h5>
 										<p class="social-intro">
 											<a href="https://discovery-medalmadness.netlify.app/" alt="Projet VUEJS" target="_blank">
+												<i class="fas fa-link"></i>
+											</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-4 col-md-6 filter javascript">
+								<div class="thumbnail">
+									<div class="thumbnail-img">
+										<img src="assets/img/work/screenshot-rogererrera.png" alt="script-recherche"/>
+									</div>
+	
+									<div class="caption">
+										<h3>Script de recherche</h3>
+										<h5>Ajout d'un script de recherche avec filtres sur le site d'un client</h5>
+										<p class="social-intro">
+											<a href="http://rogererrera.fr/publications/" alt="Projet Javascript" target="_blank">
 												<i class="fas fa-link"></i>
 											</a>
 										</p>
